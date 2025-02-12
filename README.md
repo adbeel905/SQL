@@ -1,1 +1,1 @@
-# SQL
+Welcome to my portfolio, where I showcase my expertise in SQL through carefully curated projects that demonstrate data management, query optimization, and database design. Feel free to explore my work and see how I leverage SQL to solve real-world data challenges # SQL
